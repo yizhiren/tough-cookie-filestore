@@ -6,7 +6,7 @@ tough-cookie-filestore is a File store for tough-cookie module. See
 
 ## installation
 
-    $ npm install tough-cookie-filestore
+    $ npm install tough-cookie-filestore-fix
 
 ## Options
 
